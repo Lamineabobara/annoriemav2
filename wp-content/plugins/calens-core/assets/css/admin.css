@@ -1,0 +1,71 @@
+.testimonial-stars-rating .star {
+	color: goldenrod;
+	font-size: 25px;
+	padding: 0 1rem;
+}
+
+.testimonial-stars-rating .star::before {
+	content: '\2606';
+	cursor: pointer;
+}
+.testimonial-stars-rating .star.rated::before {
+	content: '\2605';
+}
+
+.testimonial-stars-rating {
+	counter-reset: rateme 0;   
+	font-size: 25px;
+	font-weight: 900;
+}
+.testimonial-stars-rating .star.rated {
+	counter-increment: rateme 1;
+}
+
+.testimonial-stars-rating::after {
+	content: counter(rateme) '/5';
+}
+
+table.team-social-icon-table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.team-social-icon-table td, .team-social-icon-table th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+.team-social-icon-table tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.team-table-row-add {
+	margin-top: 15px;
+    color: #323232;
+    border: 1px solid #ccc;
+    background: #fff;
+    padding: 7px 10px;
+    font-weight: 600;
+    font-size: 14px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+input#tcr_testimonial_designation{
+	margin: 8px 0 12px 0;
+}
+
+.iconpicker .iconpicker-item{
+	line-height: 14px;
+}
+
+.tcr-service-input-field .button,
+.tcr-team-input-field .button{
+	margin-left: 12px;
+}
+
+.team-social-icon-table{
+	margin-top: 10px;
+}

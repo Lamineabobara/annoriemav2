@@ -1,0 +1,66 @@
+
+---Downloaded files---
+The import files for: Demo 3 were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://annoriemav2.kilifatech.com
+Data file = /var/www/html/annoriemav2/wp-content/plugins/calens-core/includes/sample-demos/content.xml
+Widget file = /var/www/html/annoriemav2/wp-content/plugins/calens-core/includes/sample-demos/widget.wie
+Customizer file = not defined!
+Redux files:
+calens_options -> /var/www/html/annoriemav2/wp-content/plugins/calens-core/includes/sample-demos/redux-3.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Rechercher - Search - Imported
+Catégories - No Title - Imported
+calens Recent Posts - No Title - Imported
+Image - No Title - Imported
+Nuage d’étiquettes - No Title - Imported
+
+Footer column 1 : 
+
+Texte - No Title - Imported
+
+Footer column 2 : 
+
+Menu de navigation - Useful Link - Imported
+
+Footer column 3 : 
+
+calens Recent Posts - Blogs &amp; Articles - Imported
+
+Footer column 4 : 
+
+Texte - Our Newsletter - Imported
+
+Service Sidebar : 
+
+Calens Recent Services - Our Service - Imported
+HTML personnalisé - Download - Imported
+Image - No Title - Imported
+
+Shop Sidebar : 
+
+Product Search - No Title - Imported
+Filter Products by Price - Filter by price - Imported
+Product Categories - Product categories - Imported
+Products list - Products - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: calens_options finished successfully!
+
+---ocdi/after_import---
+ Slider processed

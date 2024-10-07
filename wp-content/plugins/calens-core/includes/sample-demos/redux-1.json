@@ -1,0 +1,262 @@
+{
+  "last_tab": "",
+  "header-layout": "layout-1",
+  "sticky-header": "1",
+  "display-search-icon": "1",
+  "display-cart-icon": "1",
+  "contact_infobox": "<div class=\"contact-phone contact-item d-flex align-items-center\">\r\n\r\n<i class=\"flaticon flaticon-headset\"></i>\r\n<div class=\"contact-list\"><span class=\"contact-label\">Contact Us</span>\r\n<span class=\"contact-value\">\r\n<a href=\"#\">+012(34) 5678</a>\r\n</span></div>\r\n</div>",
+  "office_address": "Envanto HQ, Australia",
+  "contact_email": "mail@calens.com",
+  "header_button_title": "Free Consultant",
+  "header_button_liink": "#",
+  "site-logo": {
+    "url": "https://themecrafter.com/calens/sampledata/wp-content/uploads/sites/3/2021/01/header-logo.png",
+    "id": "2576",
+    "height": "108",
+    "width": "401",
+    "thumbnail": "https://themecrafter.com/calens/sampledata/wp-content/uploads/sites/3/2021/01/header-logo-150x108.png"
+  },
+  "site-logo-height": {
+    "height": "50px",
+    "units": "px"
+  },
+  "sticky-site-logo": {
+    "url": "https://themecrafter.com/calens/sampledata/wp-content/uploads/sites/3/2021/01/header-logo.png",
+    "id": "2576",
+    "height": "108",
+    "width": "401",
+    "thumbnail": "https://themecrafter.com/calens/sampledata/wp-content/uploads/sites/3/2021/01/header-logo-150x108.png"
+  },
+  "sticky-site-logo-height": {
+    "height": "50px",
+    "units": "px"
+  },
+  "display-topbar": "1",
+  "topbar_color": "#272727",
+  "topbar_bg_color": "#f6f6f6",
+  "topbar_info_left": "<ul class=\"tcr-header-link\">\r\n \t<li><a href=\"https://themecrafter.com/calens/contact-us/\">Support </a></li>\r\n \t<li><a href=\"https://themecrafter.com/calens/our-pricing/\">Careers</a></li>\r\n \t<li><a href=\"https://themecrafter.com/calens/faq/\">FAQ’s</a></li>\r\n</ul>",
+  "topbar_info_right": "<div class=\"calens-header-button\"><a href=\"https://themecrafter.com/calens/contact-us/\" title=\"Free Consulting\">Request Quote</a></div>",
+  "scroll_to_top": "1",
+  "facebook_link": "#",
+  "twitter_link": "",
+  "dribbble_link": "",
+  "vimeo_link": "",
+  "linkedin_link": "",
+  "youtube_link": "#",
+  "instagram_link": "#",
+  "pinterest_link": "",
+  "display_page_title": "1",
+  "page_title_height": "400",
+  "display_breadcrumb": "1",
+  "page_title_alignment": "center",
+  "page_title_text_color": "light",
+  "page_title_banner_image": {
+    "background-repeat": "no-repeat",
+    "background-size": "cover",
+    "background-attachment": "",
+    "background-position": "center center",
+    "background-image": "https://themecrafter.com/calens/sampledata/wp-content/uploads/sites/3/2021/02/titlebar-img.jpg",
+    "media": {
+      "id": "2772",
+      "height": "600",
+      "width": "1920",
+      "thumbnail": "https://themecrafter.com/calens/sampledata/wp-content/uploads/sites/3/2021/02/titlebar-img-150x150.jpg"
+    }
+  },
+  "page_title_background_color": "#f8f8f8",
+  "blog_sidebar": "right-sidebar",
+  "facebook_share": "",
+  "twitter_share": "",
+  "linkedin_share": "",
+  "pinterest_share": "",
+  "tumblr_share": "",
+  "skype_share": "",
+  "page_sidebar": "right-sidebar",
+  "custom_heading_title_typography": {
+    "font-family": "Barlow Condensed",
+    "font-options": "",
+    "google": "1",
+    "font-backup": "Arial, Helvetica, sans-serif",
+    "font-weight": "700",
+    "font-style": "",
+    "subsets": "",
+    "font-size": "52px",
+    "line-height": "52px",
+    "letter-spacing": ""
+  },
+  "custom_heading_subtitle_typography": {
+    "font-family": "Poppins",
+    "font-options": "",
+    "google": "1",
+    "font-backup": "",
+    "font-weight": "600",
+    "font-style": "",
+    "subsets": "",
+    "font-size": "15px",
+    "line-height": "24px",
+    "letter-spacing": ""
+  },
+  "body_typography": {
+    "font-family": "Poppins",
+    "font-options": "",
+    "google": "1",
+    "font-backup": "Arial, Helvetica, sans-serif",
+    "font-weight": "400",
+    "font-style": "",
+    "subsets": "",
+    "font-size": "15px",
+    "line-height": "26px",
+    "letter-spacing": ""
+  },
+  "h1_typography": {
+    "font-family": "Barlow Condensed",
+    "font-options": "",
+    "google": "1",
+    "font-backup": "Arial, Helvetica, sans-serif",
+    "font-weight": "700",
+    "font-style": "",
+    "subsets": "",
+    "font-size": "46px",
+    "line-height": "50px",
+    "letter-spacing": "0px"
+  },
+  "h2_typography": {
+    "font-family": "Barlow Condensed",
+    "font-options": "",
+    "google": "1",
+    "font-backup": "",
+    "font-weight": "700",
+    "font-style": "",
+    "subsets": "",
+    "font-size": "40px",
+    "line-height": "46px",
+    "letter-spacing": "0px"
+  },
+  "h3_typography": {
+    "font-family": "Barlow Condensed",
+    "font-options": "",
+    "google": "1",
+    "font-backup": "",
+    "font-weight": "700",
+    "font-style": "",
+    "subsets": "",
+    "font-size": "36px",
+    "line-height": "42px",
+    "letter-spacing": ""
+  },
+  "h4_typography": {
+    "font-family": "Barlow Condensed",
+    "font-options": "",
+    "google": "1",
+    "font-backup": "",
+    "font-weight": "700",
+    "font-style": "",
+    "subsets": "",
+    "font-size": "30px",
+    "line-height": "36px",
+    "letter-spacing": ""
+  },
+  "h5_typography": {
+    "font-family": "Barlow Condensed",
+    "font-options": "",
+    "google": "1",
+    "font-backup": "",
+    "font-weight": "700",
+    "font-style": "",
+    "subsets": "",
+    "font-size": "26px",
+    "line-height": "30px",
+    "letter-spacing": ""
+  },
+  "h6_typography": {
+    "font-family": "Barlow Condensed",
+    "font-options": "",
+    "google": "1",
+    "font-backup": "",
+    "font-weight": "700",
+    "font-style": "",
+    "subsets": "",
+    "font-size": "22px",
+    "line-height": "26px",
+    "letter-spacing": ""
+  },
+  "service_sidebar": "left-sidebar",
+  "shop_sidebar": "right-sidebar",
+  "primary_color": "#4dac4d",
+  "secondary_color": "#282d47",
+  "tertiary_color": "#f6f6f6",
+  "footer_topbar_enable": "1",
+  "footer_social_infos": "[calens-social-links]",
+  "footer_contact_infobox": "<div class=\"contact-info-inner\">\r\n<div class=\"tcr-footer-box d-flex align-items-center\">\r\n<div class=\"tcr-footer-icon\"><i class=\"flaticon flaticon-call aria-hidden=\"></i></div>\r\n<div class=\"tcr-content\">Téléphone : <span>+221 77 263 20 20</span></div>\r\n</div>\r\n<div class=\"tcr-footer-box d-flex align-items-center\">\r\n<div class=\"tcr-footer-icon\"><i class=\"flaticon flaticon-email\" aria-hidden=\"true\"></i></div>\r\n<div class=\"tcr-content\">Adresse mail:<span>Annoriema-Beauty@gmail.com</span></div>\r\n</div>\r\n<div class=\"tcr-footer-box d-flex align-items-center\">\r\n<div class=\"tcr-footer-icon\"><i class=\"flaticon flaticon-pin\" aria-hidden=\"true\"></i></div>\r\n<div class=\"tcr-content\">Our Address<span>183 Donato CA, United States</span></div>\r\n</div>\r\n</div>",
+  "footer_topbar_background": {
+    "background-color": "#212121",
+    "background-repeat": "",
+    "background-size": "",
+    "background-attachment": "",
+    "background-position": "",
+    "background-image": "",
+    "media": {
+      "id": "",
+      "height": "",
+      "width": "",
+      "thumbnail": ""
+    }
+  },
+  "footer_layout": "3-3-3-3",
+  "footer_background": {
+    "background-color": "#252525",
+    "background-repeat": "no-repeat",
+    "background-size": "inherit",
+    "background-attachment": "inherit",
+    "background-position": "center center",
+    "background-image": "https://themecrafter.com/calens/sampledata/wp-content/uploads/sites/3/2020/07/footer-dot-map1.png",
+    "media": {
+      "id": "1602",
+      "height": "352",
+      "width": "718",
+      "thumbnail": "https://themecrafter.com/calens/sampledata/wp-content/uploads/sites/3/2020/07/footer-dot-map1-150x150.png"
+    }
+  },
+  "footer_bottom_background": {
+    "background-color": "",
+    "background-repeat": "",
+    "background-size": "",
+    "background-attachment": "",
+    "background-position": "",
+    "background-image": "",
+    "media": {
+      "id": "",
+      "height": "",
+      "width": "",
+      "thumbnail": ""
+    }
+  },
+  "copyright_text_left": "<ul class=\"tcr-footer-menu\">\r\n \t<li><a href=\"#\">Privacy &amp; Policy</a></li>\r\n \t<li><a href=\"#\">Conditions</a></li>\r\n</ul>",
+  "copyright_text_right": "Copyright by calens. All rights reserved.",
+  "fof_page_title_type": "image",
+  "fof_page_title": "404",
+  "fof_page_title_image": {
+    "url": "https://themecrafter.com/calens/sampledata/wp-content/uploads/sites/3/2021/02/404-img.png",
+    "id": "2804",
+    "height": "477",
+    "width": "611",
+    "thumbnail": "https://themecrafter.com/calens/sampledata/wp-content/uploads/sites/3/2021/02/404-img-150x150.png"
+  },
+  "fof_page_description": "It looks like nothing was found at this location. Maybe try one of the links below or a search?",
+  "fof_page_background": {
+    "background-color": "",
+    "background-repeat": "",
+    "background-size": "inherit",
+    "background-attachment": "",
+    "background-position": "",
+    "background-image": "",
+    "media": {
+      "id": "",
+      "height": "",
+      "width": "",
+      "thumbnail": "https://themecrafter.com/calens/wp-content/uploads/2020/07/404-bg1-150x150.jpg"
+    }
+  },
+  "fof_page_back_to_home": "1",
+  "redux-backup": 1
+}

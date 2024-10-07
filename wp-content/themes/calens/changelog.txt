@@ -1,0 +1,95 @@
+- Version 2.1.1 (29th June 2024)
+
+Fixed   # Color customizer issue with latest version of the elementor plugin.
+Fixed   # SVG icons not visible in new elementor.
+Updated # language files.
+Updated # Minor code improvement and fixes.
+Updated # Bundled plugin with the latest version
+
+- Version 2.1.0 (3rd June 2023)
+
+Added # RTL support added'.
+Fixed # [calens-social-links] shortcode not working properly.
+Updated # Minor code improvement and fixes.
+Updated # Sample data updated according to new pages and RTL support.
+Updated # Bundled plugin with the latest version
+
+- Version 2.0.0 (2st April  2023)
+
+Added   # New Home page 'Home 07-Shop'.
+Added   # New sidebar for the shop page.
+Added   # New option to display cart in header.
+Added   # WooCommerce support added.
+Added   # Elementor widgets and theme option for WooCommerce.
+Fixed   # Depreciate notices.
+Fixed   # Title disable option not working properly for pages.
+Fixed   # Php warnings.
+Updated # Sample data updated according to new pages and WooCommerce support.
+Updated # language files.
+Updated # Minor code improvement and fixes.
+Updated # Bundled plugin with the latest version
+
+- Version 1.3.0 (18th July  2022)
+
+Added # New Home page 'Homepage 04'.
+Added # New Home page 'Homepage 05'.
+Added # New Home page 'Homepage 06'.
+Fixed # Parent link is not clickable for the responsive menu.
+Updated # Added slider and grid layouts for testimonial elementor widget.
+Updated # Minor code improvement and fixes.
+Updated # Bundled plugin with the latest version.
+
+- Version 1.2.0 (01th April 2022)
+
+Added # New option to enable/disable sticky header.
+Fixed # Core plugin not working with the latest version of the Elementor builder.
+Fixed # Color schemes not applying properly in some area.
+Fixed # Sample data issues.
+Fixed # Updated deprecated function and method of elementor in core plugin.
+Updated # language files.
+Updated # Minor code improvement and fixes.
+Updated # Bundled plugin with the latest version.
+
+- Version 1.1.3 (12th Aug 2021)
+
+Added # In introducing new filters.
+Fixed # Allow icon to change dynamically in the header.
+Updated # Bundled plugin with the latest version.
+
+- Version 1.1.2 (09th June 2021)
+
+Fixed # Testimonials Elementor widget star rating color is not proper.
+Fixed # Testimonials Elementor widget styles 2 design broken.
+Fixed # Clients Elementor widget styles 2 design broken.
+Fixed # Counter Elementor widget button color issue.
+Fixed # Progress Bar Elementor widget Style 2, image as icon is not looking proper.
+Fixed # Infobox Elementor widget icon and design issues.
+Fixed # Broken design in admin area of the custom post types.
+Fixed # "Text transformation" option not working for "Custom Heading" Elementor widget.
+Fixed # Category-based filter and autoplay option not working for Calens elements widgets.
+Fixed # List widget link not working.
+Fixed # Currency symbol not working for sale price in pricing table Elementor widget.
+Fixed # "Theme options" broken design.
+Fixed # Color Options are not working in progress bar and counter Elementor widgets.
+update # Counter Elementor widget styles design update.
+update # Projects Elementor widget grid view design update.
+Updated # Minor code improvement and fixes.
+Updated # Bundled plugin with the latest version.
+
+- Version 1.1.1 (08th May 2021)
+
+Fixed   # Wrong notice for plugin update.
+Updated # Bundled plugin with the latest version.
+
+- Version 1.1.0 (26th March 2021)
+
+Added   # New theme options for 'Office Address' and 'Contact Mail' for header layout 1.
+Added   # New Home page 'Homepage 02'.
+Added   # New Home page 'Homepage 03'.
+Fixed   # Minor PHP notice and fixes.
+Updated # CSS related minor updates.
+Updated # Bundled plugin with the latest version.
+
+- Version 1.0.0 (19th March 2021)
+
+Initial release

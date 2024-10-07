@@ -1,0 +1,22 @@
+.tcr-project-input-field, 
+.tcr-service-input-field,
+.tcr-team-input-field{
+	display: flex;
+    -webkit-box-align: center!important;
+    -ms-flex-align: center!important;
+    align-items: center!important;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.tcr-project-input-field label, 
+.tcr-service-input-field label,
+.tcr-team-input-field label{
+	width: 36%;
+    font-size: 16px;
+    font-weight: 500;
+}
+.tcr-project-input-field .widefat, 
+.tcr-service-input-field .widefat,
+.tcr-team-input-field .widefat{
+	width: 70%;
+}
